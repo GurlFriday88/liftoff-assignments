@@ -20,4 +20,5 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+[Lekecia Entrot Capstone Project Pivotal Tracker](https://www.pivotaltracker.com/projects/2163202)
   
